@@ -1,6 +1,6 @@
 {
-    "identifier": "antoineboulanger.QuickCSS",
-    "name": "Quick CSS",
+    "identifier": "antoineboulanger.quickCSS",
+    "name": "quickCSS",
     "author": "Antoine Boulanger",
     "description": "Quick CSS completions with abbreviations, similar to Emmet.",
     "version": "1.0",
