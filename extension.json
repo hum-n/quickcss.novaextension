@@ -1,0 +1,14 @@
+{
+    "identifier": "antoineboulanger.QuickCSS",
+    "name": "Quick CSS",
+    "author": "Antoine Boulanger",
+    "description": "Quick CSS completions with abbreviations, similar to Emmet.",
+    "version": "1.0",
+    "main": "main.js",    
+    "activationEvents": [
+        "onLanguage:css",
+        "onLanguage:scss",
+        "onLanguage:sass",
+        "onLanguage:less"
+    ]
+}
