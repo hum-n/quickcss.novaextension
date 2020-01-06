@@ -108,12 +108,12 @@ const data = {
 	"curp": "cursor: pointer;",
 	// display
 	"d": "display: $[];",
-	"di": "diplay: inline;",
-	"db": "diplay: block;",
-	"dc": "diplay: contents;",
+	"di": "display: inline;",
+	"db": "display: block;",
+	"dc": "display: contents;",
 	"df": "display: flex;",
 	"dg": "display: grid;",
-	"dib": "diplay: inline-block;",
+	"dib": "display: inline-block;",
 	"dif": "display: inline-flex;",
 	"dig": "display: inline-grid;",
 	"dit": "display: inline-table;",
@@ -121,7 +121,7 @@ const data = {
 	"dtce": "display: table-cell;",
 	"dtco": "display: table-column;",
 	"dtr": "display: table-row;",
-	"dn": "diplay: none;",
+	"dn": "display: none;",
 	//
 	"ec": "empty-cells: $[];",
 	// font
@@ -210,7 +210,7 @@ const data = {
 	"pr": "padding-right: $[];",
 	"pb": "padding-bottom: $[];",
 	"pl": "padding-left: $[];",
-	// 
+	//
 	"pgba": "page-break-after: $[];",
 	"pgbb": "page-break-before: $[];",
 	"pgbi": "page-break-inside: $[];",
@@ -226,9 +226,13 @@ const data = {
 	"rsz": "resize: $[];",
 	"t": "top: $[];",
 	"tbl": "table-layout: fixed;",
-	// text	
+	// text
 	"ta": "text-align: $[];",
-	"tal": "text-align-last: $[];",
+	"tac": "text-align: center;",
+	"tar": "text-align: right;",
+	"tal": "text-align: left;",
+	"taj": "text-align: justify;",
+	"tala": "text-align-last: $[];",
 	"td": "text-decoration: $[];",
 	"te": "text-emphasis: $[];",
 	"th": "text-height: $[];",
@@ -260,7 +264,7 @@ const data = {
 	"tsdu": "transition-duration: $[];",
 	"tst": "transition-timing-function: $[];",
 	"tsde": "transition-delay: $[];",
-	// 
+	//
 	"us": "user-select: none;",
 	// visibility
 	"v": "visibility: $[];",
